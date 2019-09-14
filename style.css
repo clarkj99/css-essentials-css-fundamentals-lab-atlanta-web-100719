@@ -14,5 +14,6 @@ img {
 }
 
 a {
-  padding:0px;
+  padding:10px;
+  background-color: gray;
 }
