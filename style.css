@@ -12,3 +12,7 @@ img {
   display: block;
   margin:0 auto;
 }
+
+a {
+  padding:10px;
+}
